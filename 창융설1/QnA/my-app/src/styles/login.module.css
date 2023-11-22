@@ -1,0 +1,33 @@
+* {
+    font-size:
+}
+
+
+.login_title {
+    background-color: #87CEFA;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.login_contents {
+    padding-top: 8rem;
+    padding-bottom: 1rem;
+}
+
+.input_id, .input_pwd {
+    background-color: #87CEFA;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+.login_button_wapper {
+    justify-content: center;
+    align-items: center;
+}
